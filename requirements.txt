@@ -1,0 +1,7 @@
+shiny
+gpxpy
+matplotlib
+folium
+branca
+requests
+xyzservices
